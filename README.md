@@ -13,8 +13,8 @@ WEB-ACTIVITY-BASED-LEARNING-PROJECT/
 1. Case-Study-1/
       └── College Information and Admissions Website.
 2. Case-Study-2/
-      └── Fitness Center and Gym Website.
-3. Case-Study-3/
       └── Student Academic Dashboard.
+3. Case-Study-3/
+      └── Fitness Center and Gym Website.
 # How to Run
 Open the HTML file of each project in any web browser.
