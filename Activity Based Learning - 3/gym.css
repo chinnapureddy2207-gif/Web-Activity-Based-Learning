@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.p{
+    text-align: center;
+    padding: 35px;
+    line-height:50px;
+    background:black;
+    color:rgb(255, 174, 0);
+    padding:40px 0px 20px 0px;
+    font-weight: bold;
+}
+nav a {
+    color:white;
+}
+nav a:hover{
+    color:rgba(255, 217, 0, 0.824);
+}
+.p1{
+    word-spacing:90px;
+    
+}
+.h{
+    text-align: center;
+     line-height:40px;
+     background-color: rgba(0, 0, 0, 0.379);
+     padding:70px 0px 20px 0px;
+    
+}
+.btn{
+    border-radius:8px;
+    background:rgba(255, 204, 0, 0.815);
+    padding:10px 10px 10px 10px;
+}
+.nav c{
+    color:white;
+    font-weight: bold;
+}
+h2{
+    margin-left: 20px;
+}
+.container {
+    display: flex;
+    text-align: center;
+    gap: 20px;
+    padding:50px 60px 75px 30px
+}
+
+.card {
+    background: white;
+    padding:40px 40px 40px 40px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px black;
+    color:#123c69;
+}
+.c{
+    color:black;
+    font-weight:bold;
+}
+.c1{
+    color:red;
+    font-weight:bold;
+}
+.container1{
+    display: flex;
+    text-align: center;
+    gap: 20px;
+    padding:50px 60px 60px 100px
+}
+.card1{
+    background: white;
+    padding:35px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px black;
+    color:#123c69;
+    padding:30px 100px 30px 100px;
+    
+}
+.card2{
+    background: white;
+    padding:35px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px black;
+    color:#123c69;
+    padding:30px 120px 50px 120px;
+    text-align: justify;
+    line-height: 20px;
+
+}
+.main{
+    text-decoration: none;
+}
+.m{
+    background-color: black;
+    color:white;
+    font-weight: bold;
+    font-size: 30px;
+}
