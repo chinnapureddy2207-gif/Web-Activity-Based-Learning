@@ -35,7 +35,7 @@ nav a{
 }
 
 .banner {
-    background: linear-gradient(120deg, #123c69, #2878b5);
+    background-color:#123c69;
     color: white;
     text-align: center;
     padding:50px;
